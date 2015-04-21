@@ -7,7 +7,7 @@ package controlador;
 
 /**
  *
- * @author Ruben
+ * @author Ruben y Mikel
  */
 public class Controlador {
 
